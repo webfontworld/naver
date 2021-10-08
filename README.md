@@ -1,7 +1,7 @@
 # naver
 
 ## 네이버 마루부리<br>
-<img src="https://webfontworld.github.io/naver/MaruBuri.png" alt="네이버 마루부리" style="width:100px"><br>
+<img src="https://webfontworld.github.io/naver/MaruBuri.png" alt="네이버 마루부리" style="width:500px"><br>
 https://webfontworld.github.io/naver/MaruBuri.css<br>
 https://wess.tistory.com/224
 
