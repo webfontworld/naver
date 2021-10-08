@@ -1,7 +1,7 @@
 # naver
 
 ## 네이버 마루부리<br>
-<img src="https://webfontworld.github.io/naver/MaruBuri.png" alt="네이버 마루부리" style="width:500px"><br>
+<img src="https://webfontworld.github.io/naver/MaruBuri.png" alt="네이버 마루부리" style="width:300px"><br>
 https://webfontworld.github.io/naver/MaruBuri.css<br>
 https://wess.tistory.com/224
 
@@ -54,7 +54,7 @@ https://wess.tistory.com/224
 
 
 ## 네이버 나눔스퀘어<br>
-<img src="https://webfontworld.github.io/naver/NanumSquare.png" alt="네이버 나눔스퀘어" style="width:500px"><br>
+<img src="https://webfontworld.github.io/naver/NanumSquare.png" alt="네이버 나눔스퀘어" style="width:300px"><br>
 https://webfontworld.github.io/naver/NanumSquare.css<br>
 https://wess.tistory.com/225
 
@@ -92,7 +92,7 @@ https://wess.tistory.com/225
 
 
 ## 네이버 나눔스퀘어 라운드<br>
-<img src="https://webfontworld.github.io/naver/NanumSquare.png" alt="네이버 나눔스퀘어 라운드" style="width:500px"><br>
+<img src="https://webfontworld.github.io/naver/NanumSquareRound.png" alt="네이버 나눔스퀘어 라운드" style="width:300px"><br>
 https://webfontworld.github.io/naver/NanumSquare.css<br>
 https://wess.tistory.com/225
 
