@@ -93,7 +93,7 @@ https://wess.tistory.com/225
 
 ## 네이버 나눔스퀘어 라운드<br>
 <img src="https://webfontworld.github.io/naver/NanumSquareRound.png" alt="네이버 나눔스퀘어 라운드" style="width:300px"><br>
-https://webfontworld.github.io/naver/NanumSquare.css<br>
+https://webfontworld.github.io/naver/NanumSquareRound.css<br>
 https://wess.tistory.com/225
 
 <pre>
