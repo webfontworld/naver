@@ -1,13 +1,41 @@
 /* 
-https://webfontworld.github.io/woowahan/BMDoHyeon.css
-https://webfontworld.github.io/woowahan/BMDoHyeon.png
-https://wess.tistory.com/220
+https://webfontworld.github.io/naver/MaruBuri.css
+https://webfontworld.github.io/naver/MaruBuri.png
+https://wess.tistory.com/223
 */
 
 @font-face {
-    font-family: 'BMDoHyeon';
-    font-weight: normal; 
+    font-family: 'MaruBuri';
+    font-weight: 100; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/woowahan/BMDoHyeon.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/MaruBuri-ExtraLight.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'MaruBuri';
+    font-weight: 300; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/MaruBuri-Light.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'MaruBuri';
+    font-weight: 400; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/MaruBuri-Regular.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'MaruBuri';
+    font-weight: 500; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/MaruBuri-SemiBold.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'MaruBuri';
+    font-weight: 700; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/MaruBuri-Bold.woff2) format('woff2');
     font-display: swap;
 }
