@@ -1,8 +1,8 @@
 # naver
 
 ## 네이버 마루부리<br>
+<img src="https://webfontworld.github.io/naver/MaruBuri.png" alt="네이버 마루부리" style="width:100px"><br>
 https://webfontworld.github.io/naver/MaruBuri.css<br>
-https://webfontworld.github.io/naver/MaruBuri.png<br>
 https://wess.tistory.com/224
 
 <pre>
@@ -10,7 +10,7 @@ https://wess.tistory.com/224
     font-family: 'MaruBuri';
     font-weight: 100; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/woowahan/MaruBuri-ExtraLight.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/MaruBuri-ExtraLight.woff2) format('woff2');
     font-display: swap;
 }
 </pre>
