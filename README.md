@@ -127,3 +127,63 @@ https://wess.tistory.com/225
 }
 </pre>
 
+
+
+## 네이버 나눔바른펜<br>
+<img src="https://webfontworld.github.io/naver/NanumBarunpen.png" alt="네이버 나눔바른펜" style="width:300px"><br>
+https://webfontworld.github.io/naver/NanumBarunpen.css<br>
+https://wess.tistory.com/225
+
+<pre>
+@font-face {
+    font-family: 'NanumBarunpen';
+    font-weight: 400; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunpenR.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumBarunpen';
+    font-weight: 600; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunpenB.woff2) format('woff2');
+    font-display: swap;
+}
+
+
+
+
+## 네이버 나눔바른고딕<br>
+<img src="https://webfontworld.github.io/naver/NanumBarunGothic.png" alt="네이버 나눔바른펜" style="width:300px"><br>
+https://webfontworld.github.io/naver/NanumBarunGothic.css<br>
+https://wess.tistory.com/225
+
+<pre>
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: 100; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunGothicUltraLight.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: 300; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunGothicLight.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: 400; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunGothic.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: 700; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunGothicBold.woff2) format('woff2');
+    font-display: swap;
+}
