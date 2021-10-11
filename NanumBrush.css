@@ -1,0 +1,13 @@
+/* 
+https://webfontworld.github.io/naver/NanumSquareRound.css
+https://webfontworld.github.io/naver/NanumSquareRound.png
+https://wess.tistory.com/225
+*/
+
+@font-face {
+    font-family: 'NanumSquareRound';
+    font-weight: 300; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundL.woff2) format('woff2');
+    font-display: swap;
+}
