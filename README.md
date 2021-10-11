@@ -193,7 +193,7 @@ https://wess.tistory.com/225
 ## 네이버 손글씨 붓<br>
 <img src="https://webfontworld.github.io/naver/NanumBrush.png" alt="네이버 손글씨 붓" style="width:300px"><br>
 https://webfontworld.github.io/naver/NanumBrush.css<br>
-https://wess.tistory.com/225
+https://wess.tistory.com/228
 
 <pre>
 @font-face {
@@ -208,7 +208,7 @@ https://wess.tistory.com/225
 ## 네이버 손글씨 펜<br>
 <img src="https://webfontworld.github.io/naver/NanumPen.png" alt="네이버 손글씨 펜" style="width:300px"><br>
 https://webfontworld.github.io/naver/NanumPen.css<br>
-https://wess.tistory.com/225
+https://wess.tistory.com/229
 
 <pre>
 @font-face {
@@ -224,7 +224,7 @@ https://wess.tistory.com/225
 ## 네이버 나눔고딕<br>
 <img src="https://webfontworld.github.io/naver/NanumGothic.png" alt="네이버 나눔고딕" style="width:300px"><br>
 https://webfontworld.github.io/naver/NanumGothic.css<br>
-https://wess.tistory.com/225
+https://wess.tistory.com/230
 
 <pre>
 @font-face {
@@ -261,7 +261,7 @@ https://wess.tistory.com/225
 ## 네이버 나눔명조<br>
 <img src="https://webfontworld.github.io/naver/NanumMyeongjo.png" alt="네이버 나눔명조" style="width:300px"><br>
 https://webfontworld.github.io/naver/NanumGothic.css<br>
-https://wess.tistory.com/225
+https://wess.tistory.com/231
 
 <pre>
 @font-face {
