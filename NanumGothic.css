@@ -1,34 +1,34 @@
 /* 
-https://webfontworld.github.io/naver/NanumSquareRound.css
-https://webfontworld.github.io/naver/NanumSquareRound.png
-https://wess.tistory.com/225
+https://webfontworld.github.io/naver/NanumGothic.css
+https://webfontworld.github.io/naver/NanumGothic.png
+https://wess.tistory.com/230
 */
 
 @font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 300; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundL.woff2) format('woff2');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 400; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundR.woff2) format('woff2');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 500; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundB.woff2) format('woff2');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'NanumSquareRound';
+    font-family: 'NanumGothic';
     font-weight: 700; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundEB.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothicEB.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 500; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothicB.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 400; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothic.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 300; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothicL.woff2) format('woff2');
     font-display: swap;
 }

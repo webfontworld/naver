@@ -1,13 +1,13 @@
 /* 
-https://webfontworld.github.io/naver/NanumSquareRound.css
-https://webfontworld.github.io/naver/NanumSquareRound.png
+https://webfontworld.github.io/naver/NanumBrush.css
+https://webfontworld.github.io/naver/NanumBrush.png
 https://wess.tistory.com/225
 */
 
 @font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 300; 
+    font-family: 'NanumBrush';
+    font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundL.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBrush.woff2) format('woff2');
     font-display: swap;
 }

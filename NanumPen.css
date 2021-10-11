@@ -1,34 +1,13 @@
 /* 
-https://webfontworld.github.io/naver/NanumSquareRound.css
-https://webfontworld.github.io/naver/NanumSquareRound.png
-https://wess.tistory.com/225
+https://webfontworld.github.io/naver/NanumPen.css
+https://webfontworld.github.io/naver/NanumPen.png
+https://wess.tistory.com/229
 */
 
 @font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 300; 
+    font-family: 'NanumPen';
+    font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundL.woff2) format('woff2');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 400; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundR.woff2) format('woff2');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 500; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundB.woff2) format('woff2');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'NanumSquareRound';
-    font-weight: 700; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumSquareRoundEB.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumPen.woff2) format('woff2');
     font-display: swap;
 }
