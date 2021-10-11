@@ -187,3 +187,102 @@ https://wess.tistory.com/225
     src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBarunGothicBold.woff2) format('woff2');
     font-display: swap;
 }
+</pre>
+
+
+## 네이버 손글씨 붓<br>
+<img src="https://webfontworld.github.io/naver/NanumBrush.png" alt="네이버 손글씨 붓" style="width:300px"><br>
+https://webfontworld.github.io/naver/NanumBrush.css<br>
+https://wess.tistory.com/225
+
+<pre>
+@font-face {
+    font-family: 'NanumBrush';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumBrush.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+## 네이버 손글씨 펜<br>
+<img src="https://webfontworld.github.io/naver/NanumPen.png" alt="네이버 손글씨 펜" style="width:300px"><br>
+https://webfontworld.github.io/naver/NanumPen.css<br>
+https://wess.tistory.com/225
+
+<pre>
+@font-face {
+    font-family: 'NanumPen';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumPen.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+
+## 네이버 나눔고딕<br>
+<img src="https://webfontworld.github.io/naver/NanumGothic.png" alt="네이버 나눔고딕" style="width:300px"><br>
+https://webfontworld.github.io/naver/NanumGothic.css<br>
+https://wess.tistory.com/225
+
+<pre>
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 700; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothicEB.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 500; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothicB.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 400; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothic.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    font-weight: 300; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumGothicL.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+
+## 네이버 나눔명조<br>
+<img src="https://webfontworld.github.io/naver/NanumMyeongjo.png" alt="네이버 나눔명조" style="width:300px"><br>
+https://webfontworld.github.io/naver/NanumGothic.css<br>
+https://wess.tistory.com/225
+
+<pre>
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 700; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumMyeongjoEB.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 500; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumMyeongjoB.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 400; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/naver/NanumMyeongjo.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
